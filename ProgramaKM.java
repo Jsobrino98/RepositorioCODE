@@ -12,5 +12,7 @@ public class ProgramaKM {
         numFinal=num*1000;
 
         System.out.println("La distancia en metros es: " + numFinal);
+
+        //Joje dice paco que me comas los KM
     }
 }
